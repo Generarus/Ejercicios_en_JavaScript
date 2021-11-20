@@ -1,0 +1,24 @@
+{
+  "name": "generarusjsfirstpkg",
+  "version": "1.0.0",
+  "description": "Hola Mundo JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Generarus/Ejercicios_en_JavaScript.git"
+  },
+  "keywords": [
+    "SICUAM",
+    "JavaScript",
+    "HolaMundo"
+  ],
+  "author": "Genaro HV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Generarus/Ejercicios_en_JavaScript/issues"
+  },
+  "homepage": "https://github.com/Generarus/Ejercicios_en_JavaScript#readme"
+}
